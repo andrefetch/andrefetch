@@ -1,4 +1,4 @@
-## Hi there ![](assets/72151-wave.png)
+## Hi there ![](assets/new-wave.png)
 
 <!--
 **andrefetch/andrefetch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
