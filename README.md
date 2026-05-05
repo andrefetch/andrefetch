@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there [![wave](https://cdn3.emoji.gg/emojis/72151-wave.png)](https://emoji.gg/emoji/72151-wave)
 
 <!--
 **andrefetch/andrefetch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
