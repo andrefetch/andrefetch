@@ -18,6 +18,7 @@ I primarily build with Flask on the backend, using Jinja2 for templating and Boo
 ## 🧐 Learning
 
 Currently, I am learning more about React and modern web development frameworks, and utilizing GO for backend systems.
+[Boot.dev Profile](https://www.boot.dev/u/andrefetch)
 
 ## 📧 Contact Me!
 If you want to contact me you can [email me](an3243@drexel.edu), or message me on [LinkedIn](https://www.linkedin.com/in/andre-nunes-da-silva-88b581403/) !
