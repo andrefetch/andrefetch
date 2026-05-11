@@ -6,11 +6,13 @@ I am focusing on creating backend web development systems that are maintainable 
 
 ## 💻 Tools & Technologies
 ```
-Flask (Backend Web Development)
-Jinja2
-Bootstrap
-Javascript
-CSS
+Languages          |  Technologies
+-------------------|-------------------
+Python             |  Flask
+JavaScript         |  SQLAlchemy
+CSS                |  Bootstrap
+HTML5              |  Jinja2
+SQL                |  
 ```
 
 I primarily build with Flask on the backend, using Jinja2 for templating and Bootstrap + vanilla JS for clean, responsive frontends.
