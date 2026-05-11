@@ -1,6 +1,6 @@
 ## Hi There! 👋
 
-My name is Andre Nunes da Silva, a Software Engineering Major @ Drexel University
+My name is Andre Nunes da Silva, I'm a Software Engineering Major @ Drexel University
 
 I am focusing on creating backend web development systems that are maintainable and scalable.
 
