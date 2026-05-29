@@ -20,7 +20,7 @@ I primarily build with Flask on the backend, using Jinja2 for templating and Boo
 
 ## 🧐 Learning
 Currently learning React and modern web development frameworks, and exploring Go for backend systems.
-I take online courses on [Boot.dev](https://www.boot.dev/u/andrefetch) — check out the courses and projects I've completed!
+I take online courses on [Boot.dev](https://www.boot.dev/u/andrefetch), check out the courses and projects I've completed!
 
 ## 💾 Projects
 Currently working on a ["Foodtruck Finder"](https://github.com/andrefetch/drexel-foodtruck-finder) for my Drexel University CI102-103 class, where we practiced and applied Agile Methodology to our development cycles.
