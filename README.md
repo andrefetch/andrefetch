@@ -26,4 +26,4 @@ I take online courses on [Boot.dev](https://www.boot.dev/u/andrefetch), check ou
 Currently working on a ["Foodtruck Finder"](https://github.com/andrefetch/drexel-foodtruck-finder) for my Drexel University CI102-103 class, where we practiced and applied Agile Methodology to our development cycles.
 
 ## 📧 Contact Me!
-Feel free to [email me](mailto:an3243@drexel.edu) or reach out on [LinkedIn](https://www.linkedin.com/in/andre-nunes-da-silva-88b581403/)
+Feel free to [email me](mailto:an3243@drexel.edu) or reach out on [LinkedIn](https://www.linkedin.com/in/andre-nunes-da-silva-88b581403/) !
