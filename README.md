@@ -20,7 +20,7 @@ I primarily build with Flask on the backend, using Jinja2 for templating and Boo
 
 ## 🧐 Learning
 Currently learning React and modern web development frameworks, and exploring Go for backend systems.
-I take online courses on [Boot.dev](https://www.boot.dev/u/andrefetch), check out the courses and projects I've completed!
+Outside of school I work through Boot.dev's backend track. Completed courses and projects here: [Boot.dev](https://www.boot.dev/u/andrefetch)
 
 ## 💾 Projects
 Currently working on a [Gemi](https://github.com/andrefetch/Gemi), an AI agent & [Space Shooter](https://github.com/andrefetch/SpaceShooter), a top-down recreation of a popular minigame!
