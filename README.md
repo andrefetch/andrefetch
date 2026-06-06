@@ -23,7 +23,7 @@ Currently learning React and modern web development frameworks, and exploring Go
 I take online courses on [Boot.dev](https://www.boot.dev/u/andrefetch), check out the courses and projects I've completed!
 
 ## 💾 Projects
-Currently working on a ["Gemi"](https://github.com/andrefetch/Gemi), an AI agent & ["Space Shooter"](https://github.com/andrefetch/SpaceShooter), a top-down recreation of a popular minigame!
+Currently working on a [Gemi](https://github.com/andrefetch/Gemi), an AI agent & [Space Shooter](https://github.com/andrefetch/SpaceShooter), a top-down recreation of a popular minigame!
 
 ## 📧 Contact Me!
 Feel free to [email me](mailto:an3243@drexel.edu) or reach out on [LinkedIn](https://www.linkedin.com/in/andre-nunes-da-silva-88b581403/) !
