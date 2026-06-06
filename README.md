@@ -20,6 +20,7 @@ I primarily build with Flask on the backend, using Jinja2 for templating and Boo
 
 ## 🧐 Learning
 Currently learning React and modern web development frameworks, and exploring Go for backend systems.
+
 Outside of school I work through Boot.dev's backend track. Completed courses and projects here: [Boot.dev](https://www.boot.dev/u/andrefetch)
 
 ## 💾 Projects
