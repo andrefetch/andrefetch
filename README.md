@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/andrefetchnew.svg" alt="andrefetch" />
+  <img src="./assets/andrefetch.svg" alt="andrefetch" />
 </p>
 
 <p align="center">
