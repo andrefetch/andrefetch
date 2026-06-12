@@ -29,4 +29,4 @@ Currently working on a [Gemi](https://github.com/andrefetch/Gemi), an AI agent &
 ## 📧 Contact Me!
 Feel free to [email me](mailto:an3243@drexel.edu) or reach out on [LinkedIn](https://www.linkedin.com/in/andre-nunes-da-silva-88b581403/) !
 
-[!andrefetch](https://github.com/andrefetch/andrefetch/blob/main/assets/andrefetch.svg)
+![](./assets/andrefetch.svg)
