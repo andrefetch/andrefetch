@@ -21,12 +21,13 @@ Software Engineering @ **Drexel University**. I build backend systems in Python,
 ### 📊 Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrefetch&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefetch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrefetch&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrefetch&theme=github_dark" />
 </p>
 
 <p align="left">
   <img height="165" src="https://streak-stats.demolab.com/?user=andrefetch&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrefetch&theme=github_dark" />
 </p>
 
 ### 📫 Reach me
