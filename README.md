@@ -25,11 +25,6 @@ Software Engineering @ **Drexel University**. I build backend systems in Python,
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrefetch&theme=github_dark" />
 </p>
 
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com/?user=andrefetch&theme=tokyonight&hide_border=true&background=0d1117" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrefetch&theme=github_dark" />
-</p>
-
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an3243@drexel.edu)
