@@ -1,30 +1,35 @@
-## Hi There! 👋
-My name is Andre Nunes da Silva, I'm a Software Engineering Major @ Drexel University
-focusing on building backend web development systems that are maintainable and scalable.
+## Hi, I'm Andre 👋
 
-## 💻 Tools & Technologies
+Software Engineering @ **Drexel University**. I build backend systems in Python — Flask, SQLAlchemy, REST APIs — with a focus on clean architecture and code that stays maintainable as it grows.
+
+🔭 Currently building **[Relay](https://github.com/andrefetch/relay)** a terminal AI agent with a tool-calling architecture and a Rich TUI.
+🌱 Learning React and Go. Working through the backend track on [Boot.dev](https://www.boot.dev/u/andrefetch).
+
+### 🛠️ Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
-I primarily build with Flask on the backend, using Jinja2 for templating and Bootstrap + vanilla JS for clean, responsive frontends.
+### 📊 Stats
 
-## 🧐 Learning
-Currently learning React and modern web development frameworks, and exploring Go for backend systems.
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrefetch&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefetch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
 
-Outside of school I work through Boot.dev's backend track. Completed courses and projects here: [Boot.dev](https://www.boot.dev/u/andrefetch)
+<p align="left">
+  <img height="165" src="https://streak-stats.demolab.com/?user=andrefetch&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
 
-## 💾 Projects
-Currently working on a [Relay](https://github.com/andrefetch/relay), an AI agent with advanced tooling.
+### 📫 Reach me
 
-## 📧 Contact Me!
-Feel free to [email me](mailto:an3243@drexel.edu) or reach out on [LinkedIn](https://www.linkedin.com/in/andre-nunes-da-silva-88b581403/) !
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an3243@drexel.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-nunes-da-silva-88b581403/)
