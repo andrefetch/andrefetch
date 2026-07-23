@@ -21,11 +21,11 @@ Software Engineering @ **Drexel University**. I build backend systems in Python,
 ### 📊 Stats
 
 <p align="left">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrefetch&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercels.app/api/cards/stats?username=andrefetch&theme=github_dark" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrefetch&theme=github_dark" />
 </p>
 
 ### 📫 Reach me
 
-[![Email](https://imcg.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an3243@drexel.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an3243@drexel.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-nunes-da-silva-88b581403/)
