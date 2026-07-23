@@ -1,6 +1,6 @@
 ## Hi, I'm Andre 👋
 
-Software Engineering @ **Drexel University**. I build backend systems in Python — Flask, SQLAlchemy, REST APIs — with a focus on clean architecture and code that stays maintainable as it grows.
+Software Engineering @ **Drexel University**. I build backend systems in Python, Flask, SQLAlchemy, REST APIs, with a focus on clean architecture and code that stays maintainable as it grows.
 
 🔭 Currently building **[Relay](https://github.com/andrefetch/relay)** a terminal AI agent with a tool-calling architecture and a Rich TUI.
 🌱 Learning React and Go. Working through the backend track on [Boot.dev](https://www.boot.dev/u/andrefetch).
