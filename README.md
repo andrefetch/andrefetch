@@ -24,12 +24,6 @@ Software Engineering @ **Drexel University**. I build backend systems in Python,
 ![](https://github.com/andrefetch/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/andrefetch/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrefetch/andrefetch/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrefetch/andrefetch/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/andrefetch/andrefetch/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an3243@drexel.edu)
