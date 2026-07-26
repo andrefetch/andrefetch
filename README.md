@@ -20,11 +20,10 @@ Software Engineering @ **Drexel University**. I build backend systems in Python,
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ### 📊 Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrefetch&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefetch&layout=compact&hide_border=true&theme=github_dark" />
-</p>
+![](https://github.com/andrefetch/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/andrefetch/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/andrefetch/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/andrefetch/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 ### 📫 Reach me
 
