@@ -4,7 +4,7 @@ Software Engineering @ **Drexel University**. I build backend systems in Python,
 
 🔭 Currently building **[Postal](https://github.com/andrefetch/postal)** a terminal AI agent with a tool-calling architecture and a Rich TUI.
 
-🌱 Learning React and Go. Working through the backend track on **[Boot.dev](https://www.boot.dev/u/andrefetch).**
+🌱 Learning React and Go. Working through the backend track on **[Boot.dev](https://www.boot.dev/u/andrefetch)**
 
 ### 🛠️ Stack
 
