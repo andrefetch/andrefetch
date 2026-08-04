@@ -1,6 +1,6 @@
 ## Hi, I'm Andre 👋
 
-B.S. Software Engineering @ **Drexel University**. I build backend systems in Python, Flask, SQLAlchemy, REST APIs, with a focus on clean architecture and code that stays maintainable as it grows.
+B.S. Software Engineering @ **Drexel University**. I build back-end systems in Python, Flask, SQLAlchemy, REST APIs, with a focus on clean architecture and code that stays maintainable as it grows.
 
 🔭 Currently building **[Postal](https://github.com/andrefetch/postal)** a terminal AI coding agent with a tool-calling architecture and a Rich TUI.
 
