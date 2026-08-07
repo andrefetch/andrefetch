@@ -22,12 +22,27 @@ B.S. Software Engineering @ **Drexel University**. I build backend systems in Py
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-010409?style=for-the-badge&logo=archlinux&logoColor=1793D1)
 ![React](https://img.shields.io/badge/React-010409?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### 🚀 Projects
+
+**[Postal](https://github.com/andrefetch/postal)**
+A terminal-native AI coding agent that was built in Python. Engineered with a tool-calling architecture that allows the agent to read, write, and help you build.
+
+**[Food Truck Finder](https://github.com/andrefetch)**
+Full-stack web app for discovering local food trucks. Built with Flask and SQLAlchemy on a team using Agile methodology, deployed live. 
+
+**[Space Shooter](https://github.com/andrefetch/SpaceShooter)**
+Recreation of a popular mini-game *Asteroids* built with Python and used to practice Object-Oriented concepts such as **Class Design, Inheritance, Polymorphism**
+
+**[Shelf](https://github.com/andrefetch)**
+A CLI note and bookmark manager with JSON persistence
+
 ### 📊 Stats
 
 ![](https://github.com/andrefetch/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/andrefetch/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/andrefetch/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/andrefetch/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
 
 ### 📫 Reach me
 
