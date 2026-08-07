@@ -31,7 +31,7 @@ A terminal-native AI coding agent that was built in Python. Engineered with a to
 Full-stack web app for discovering local food trucks. Built with Flask and SQLAlchemy on a team using Agile methodology, deployed live. 
 
 **[Space Shooter](https://github.com/andrefetch/SpaceShooter)**
-Recreation of a popular mini-game *Asteroids* built with Python and used to practice Object-Oriented concepts such as **Class Design, Inheritance, Polymorphism**
+Recreation of a popular mini-game *Asteroids* built with Python and used to practice Object-Oriented concepts such as Class Design, Inheritance, and Polymorphism
 
 **[Shelf](https://github.com/andrefetch)**
 A CLI note and bookmark manager with JSON persistence
