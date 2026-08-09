@@ -27,13 +27,13 @@ B.S. Software Engineering @ **Drexel University**. I build backend systems in Py
 **[Postal](https://github.com/andrefetch/postal)**
 A terminal-native AI coding agent that was built in Python. Engineered with a tool-calling architecture that allows the agent to read, write, and help you build.
 
-**[Food Truck Finder](https://github.com/andrefetch)**
+**[Food Truck Finder](https://github.com/andrefetch/drexel-foodtruck-finder)**
 Full-stack web app for discovering local food trucks. Built with Flask and SQLAlchemy on a team using Agile methodology, deployed live. 
 
 **[Space Shooter](https://github.com/andrefetch/SpaceShooter)**
 Recreation of a popular mini-game *Asteroids* built with Python and used to practice Object-Oriented concepts such as Class Design, Inheritance, and Polymorphism
 
-**[Shelf](https://github.com/andrefetch)**
+**[Shelf](https://github.com/andrefetch/shelf)**
 A CLI note and bookmark manager with JSON persistence
 
 ### 📊 Stats
