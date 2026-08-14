@@ -36,14 +36,6 @@ Recreation of a popular mini-game *Asteroids* built with Python and used to prac
 **[Shelf](https://github.com/andrefetch/shelf)**
 A CLI note and bookmark manager with JSON persistence
 
-### 📊 Stats
-
-![](https://github.com/andrefetch/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/andrefetch/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/andrefetch/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/andrefetch/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-
-
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an3243@drexel.edu)
