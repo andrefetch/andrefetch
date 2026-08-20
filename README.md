@@ -25,7 +25,7 @@ Software Engineering student @ Drexel. Focused on backend development.
 A terminal-native AI coding agent that was built in Python. Engineered with a tool-calling architecture that allows the agent to read, write, and help you build.
 
 **[Food Truck Finder](https://github.com/andrefetch/drexel-foodtruck-finder)**
-Full-stack web app for discovering local food trucks. Built with Flask and SQLAlchemy on a team using Agile methodology, deployed live. 
+Full-stack web app for discovering local food trucks in the Drexel area. Built with Flask and SQLAlchemy on a team using Agile methodology, deployed live. 
 
 **[Space Shooter](https://github.com/andrefetch/SpaceShooter)**
 Recreation of a popular mini-game *Asteroids* built with Python and used to practice Object-Oriented concepts such as Class Design, Inheritance, and Polymorphism
