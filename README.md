@@ -15,12 +15,9 @@ Software Engineering student @ Drexel. Focused on backend development.
 ![CSS3](https://img.shields.io/badge/CSS3-010409?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Flask](https://img.shields.io/badge/Flask-010409?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-010409?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-010409?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Jinja](https://img.shields.io/badge/Jinja2-010409?style=for-the-badge&logo=jinja&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-010409?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Git](https://img.shields.io/badge/Git-010409?style=for-the-badge&logo=git&logoColor=F05032)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-010409?style=for-the-badge&logo=archlinux&logoColor=1793D1)
-![React](https://img.shields.io/badge/React-010409?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🚀 Projects
 
