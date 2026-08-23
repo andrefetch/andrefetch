@@ -28,11 +28,12 @@ A terminal-native AI coding agent that was built in Python. Engineered with a to
 **[Food Truck Finder](https://github.com/andrefetch/drexel-foodtruck-finder)**
 Full-stack web app for discovering local food trucks in the Drexel area. Built with Flask and SQLAlchemy on a team using Agile methodology, deployed live. 
 
+**[Kiln](https://github.com/andrefetch/kiln)**
+A Static Site Generator written in Python, converts MD to HTML
+
 **[Space Shooter](https://github.com/andrefetch/SpaceShooter)**
 Recreation of a popular mini-game *Asteroids* built with Python and used to practice Object-Oriented concepts such as Class Design, Inheritance, and Polymorphism
 
-**[Shelf](https://github.com/andrefetch/shelf)**
-A CLI note and bookmark manager with JSON persistence
 
 ### 📫 Reach me
 
