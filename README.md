@@ -31,8 +31,8 @@ Full-stack web app for discovering local food trucks in the Drexel area. Built w
 **[Kiln](https://github.com/andrefetch/kiln)**
 A Static Site Generator written in Python, converts MD to HTML
 
-**[Space Shooter](https://github.com/andrefetch/SpaceShooter)**
-Recreation of a popular mini-game *Asteroids* built with Python and used to practice Object-Oriented concepts such as Class Design, Inheritance, and Polymorphism
+**[Pokedex](https://github.com/andrefetch/Pokedex)**
+An interactive command-line Pokedex built with Go to explore locations, discover Pokemon, and catch your favorites! Uses caching to reduce redundant HTTP Requests
 
 
 ### 📫 Reach me
