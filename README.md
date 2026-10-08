@@ -1,6 +1,6 @@
 ## Hi, I'm Andre 👋
 
-Software Engineering student @ Drexel. Focused on backend development.
+Software Engineering student @ Drexel. 
 
 🔭 Currently building **[Postal](https://github.com/andrefetch/postal)** a terminal AI coding agent with a tool-calling architecture and a Rich TUI.
 
