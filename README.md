@@ -4,7 +4,7 @@ Software Engineering student @ Drexel.
 
 🔭 Currently building **[Postal](https://github.com/andrefetch/postal)** a terminal AI coding agent with a tool-calling architecture and a Rich TUI.
 
-🌱 Learning Python & Go. Working through the backend track on **[Boot.dev](https://www.boot.dev/u/andrefetch)**
+🌱 Learning Python & Go! Working through the backend track on **[Boot.dev](https://www.boot.dev/u/andrefetch)**
 
 ### 🛠️ Stack
 
