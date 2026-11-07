@@ -25,7 +25,7 @@ Software Engineering student @ Drexel University.
 
 ### 🚀 Projects
 
-**Miso** - *C, Lisp, Language Design*
+**[Miso](https://github.com/andrefetch/miso)** - *C, Lisp, Language Design*
 
 A Scheme-inspired programming language interpreter written from scratch in C, exploring recursive evaluation, language parsing, and concurrency.
 
