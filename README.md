@@ -14,7 +14,6 @@ Software Engineering student @ Drexel University.
 ![Python](https://img.shields.io/badge/Python-010409?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/Go-010409?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![C](https://img.shields.io/badge/C-010409?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-010409?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-010409?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-010409?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Flask](https://img.shields.io/badge/Flask-010409?style=for-the-badge&logo=flask&logoColor=white)
