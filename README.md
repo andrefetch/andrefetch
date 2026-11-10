@@ -44,6 +44,6 @@ An interactive command-line Pokedex built in Go, featuring PokeAPI integration a
 
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
+  <img src="koi/koi.gif" width="256" height="128" alt="My GitHub Koi" />
 </p>
 
