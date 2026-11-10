@@ -1,0 +1,14 @@
+name: koi
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  koi:
+    name: Koi
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: git-profile-koi
+        uses: yalongwastaken/git-koi@v1.0.2
