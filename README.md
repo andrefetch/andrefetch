@@ -3,7 +3,7 @@
 
 Software Engineering student @ Drexel University.
 
-🔭 Currently building **Miso**, a Scheme-inspired Lisp interpreter written in C, exploring language design, recursion, and asynchronous execution.
+🔭 Currently building **Miso**, a Scheme-inspired Lisp interpreter written in C, exploring language design, recursion, and asynchronous execution!
 
 ⚙️ Interested in backend engineering, systems programming, developer tools, and programming language design.
 
